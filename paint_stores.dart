@@ -169,21 +169,8 @@ const paintStoresIonitPainterSk = [
     website: 'dek.sk',
   ),
   
-  
     
-    PaintStore(
-    name: ' ',
-    latLng: LatLng(  ),
-    address: '',
-    zipCode: '',
-    town: '',
-    phoneNumber: '',
-    email: '',
-    website: '',
-  ),
-  
-    
-  
+
     PaintStore(
     name: 'Dynamik Trading, s.r.o. (člen SOAS)',
     latLng: LatLng( 48.278011275180724, 18.095145971164055 ),
